@@ -1,0 +1,375 @@
+Nota
+do IMB: o artigo a seguir faz parte do concurso de artigos promovidos pelo
+Instituto Mises Brasil (leia mais aqui). As
+opiniões contidas nele não necessariamente representam as visões do Instituto e
+são de inteira responsabilidade de seu autor.IntroduçãoA Escola Austríaca de economia foi fundada
+oficialmente com a publicação da teoria do valor de Carl Menger no final do
+século XIX. Naquela época, era tida
+apenas como uma escola que preferia usar palavras no lugar de números para
+explicar a situação econômica.Posteriormente, com o trabalho de Ludwig Von Mises,
+foi introduzida a praxeologia
+nessa escola, o que finalmente conseguiu definir claramente o seu campo de
+estudo. Transformando-se em uma escola com uma linha teórica bem refinada e que
+conseguiu traduzir os efeitos econômicos de forma mais eficaz que o mainstream[1] - o qual tentava criar modelos econômicos se baseando
+nas ciências naturais, desconsiderando a existência na ação humana de fatores
+impossíveis de serem valorados.Desde então, houve vários outros trabalhos notáveis, como
+a teoria do conhecimento disperso de Friedrich Hayek, a teoria empreendedora de
+Israel M. Kirzner, a teoria do capital heterogêneo de Ludwig Lachmann e várias
+outras. Esses diversos trabalhos podem
+ser encontrados de forma resumida em uma infinidade de artigos que desejam
+sintetizar as principais contribuições do pensamento austríaco.Entretanto, pode-se notar que existe ainda uma certa
+escassez de trabalhos voltados a analisar as contribuições mais recentes da
+Escola Austríaca. Talvez o principal
+fator seja o fato de as teorias recentes não serem mais divulgadas em grandes
+livros como outrora, pois o debate econômico migrou de grandes obras para
+diversos papers, que são muito mais
+difíceis de serem lidos por não acadêmicos.Apesar de ser algo interessante e passível de ser
+discutido em obras futuras, não iremos nos alongar muito sobre o porquê da
+escassez de análises sobre as contribuições recentes do pensamento austríaco
+para o debate econômico.O escopo desse artigo é analisar as contribuições
+austríacas recentes em diversas áreas da economia. Ao analisar cada área, será feita uma breve
+análise das contribuições mais antigas para que possam ser traçadas as modificações
+e evoluções feitas recentemente nessas teorias.Além de poder ser usado como base para uma futura pesquisa
+por acadêmicos interessados na Escola Austríaca de Economia, este resumo também
+servirá para os entusiastas do pensamento austríaco se manterem atualizados
+sobre tais contribuições - sendo apenas um esboço inicial que não só pode, como
+deve, ser aprimorado em trabalhos futuros.EmpreendedorismoA teoria do empreendedorismo foi originalmente
+desenvolvida pelo austríaco Israel M. Kirzner.[2] Para este autor, o empreendedorismo é um sinal
+do alerta empresarial[3] que consiste em achar
+oportunidades de lucro quando elas não estão visíveis a outras pessoas. Para este processo, é necessária a interação
+de empresários especulando sobre as oportunidades futuras de ganhos, sendo que
+alguns irão achar estas oportunidades, enquanto outros fracassarão na tentativa.[4]Para Kirzner, o empresário é quem nota as
+inconsistências do mercado e tenta diminuí-las. Essa perspectiva, entretanto, é
+contrastada com a linha schumpeteriana, na qual os empresários desequilibram a
+forma tradicional de se enxergar o mundo através de suas inovações. Sendo esse desequilíbrio, diferentemente da
+visão kirzneriana, um fator positivo.[5] Esse conflito entre a visão kirzneriana e
+schumpeteriana de se enxergar a figura do empresário ainda é um ponto a ser
+melhor discutido pelos futuros trabalhos dos austríacos.Algumas críticas foram feitas aos primeiros trabalhos
+sobre o empreendedorismo, principalmente pelos economistas Jakee e Spong,
+afirmando que os fatores psicológicos geradores desse alerta não estão
+necessariamente presentes em todas as circunstâncias e, dessa forma, caberia à
+economia estudar o que modifica o alerta de forma positiva ou negativa.O principal trabalho nesse sentido foi feito pelo
+economista David Harper. Para este, as
+características individuais de cada pessoa interagem com as situações externas
+para tornar o processo de descoberta possível, já que o empreendedor deve
+enxergar uma oportunidade de lucro e perceber se possui as características
+necessárias para executá-la. Utilizando
+essa teoria, Harper ainda mostrou o processo de evolução de instituições
+econômicas, políticas e culturais mediante esses fatores.Pesquisando o processo de empreendedorismo, Frederic
+Sautet notou que esse processo não era unificado, mas que era executado em
+múltiplos níveis. Em um caso simples, o empresário está alerta a oportunidades
+de lucro fora da firma, mas em casos mais complexos ele não possui o
+conhecimento de seus empregados. Em
+"firmas complexas" os empresários deveriam então desenvolver uma estrutura de
+firma que encoraje a atividade empresarial de cada funcionário. [6]Aperfeiçoando a teoria kirzneriana,
+Randall Hocombe lembra que o empreendedorismo é um alerta puramente cognitivo e
+inclui a ação de acordo com sua percepção sobre oportunidades novas. Um empresário pode ter certeza de que
+descobriu uma oportunidade de lucro até agir e testar isso.Alguns
+austríacos, entretanto, não seguiram a linha kirzneriana. Joseph Salerno enxerga a posse de recursos
+como fator fundamental para o empreendedorismo. Da mesma forma fazem autores como K. Foss, N.
+Foss e P. Klein, que juntam a teoria da incerteza knightiana com a teoria do
+capital heterogêneo lachmaniana para criar uma teoria do julgamento, a qual
+considera a posse de recursos fundamental para a atividade empresarial. Estas teorias são geralmente utilizadas para
+pesquisas relacionadas a operações internas de firmas.Processo de Mercado e Instituições EconômicasAo ser
+estudada a função do empreendedor, tem
+que se entender também como se dá o processo de mercado.Para o
+economista Mario Rizzo, o mercado não está em equilíbrio contínuo. A falta de alerta pode levar a inconsistências
+no mercado e o processo de mercado consiste na resposta a essas coordenações
+ruins.[7]
+Rizzo discorda, junto com outros autores, do processo de mercado kirzneriano
+pelo fato de este não conseguir ser demonstrado empiricamente.O
+processo de mercado toma tempo, e nesse tempo, conhecido como tempo real,
+ocorrem mudanças no conhecimento. Os
+dados iniciais podem mudar já que o processo de "equilibração" ocorre no tempo
+real.Além
+disso, os mercados operam de forma que nem todas as possibilidades são vistas
+por todos, mais conhecida como incerteza radical.Juntando
+tudo isso, o processo de mercado é indeterminado e, como ele não pode ser
+previsto, os economistas não podem afirmar com exatidão como ele se dá - podendo
+ser traçado um modelo apenas para melhor entendimento de como o processo
+ocorre.Howard
+Baetjer Jr. Foca-se na forma como a informação é transmitida através do
+mercado. Para ele o mercado age juntando
+a informação de todos os membros através do sistema de preços. Os bens também podem transmitir informação
+sobre as melhores combinações destes para a alocação de recursos e
+oportunidades de lucro, e até o design dos produtos pode dar informações de
+mercado. [8]A
+transmissão de conhecimento depende também do contexto institucional, e isso
+inclui o sistema legal e produtos culturais. Harper chama a atenção sobre como o
+desenvolvimento dos sistemas e das técnicas numéricas reduze os custos
+transacionais, ajuda na tomada de decisão dos agentes e na computação de
+valores, escassez, oportunidades e dos aspectos econômicos importantes dos
+bens.Para o
+economista Peter Boetkke, o empreendedorismo também pode ocorrer em estruturas
+que não sejam as de mercado, como estruturas em atividades filantrópicas. Existe empreendedorismo político sobre como
+alocar os recursos de acordo com um arranjo institucional. A diferença do processo de mercado para esses
+tipos de empreendedorismo é a falta dos mecanismos de lucro e prejuízo. Se existe um mecanismo de resposta adequado a
+esse tipo de instituição, é algo em aberto.Alguns
+austríacos, como Chamlee-Wright, consideram que a reputação pode ser uma
+instituição que traz um mecanismo de resposta sem a necessidade do mercado. Um
+exemplo desse tipo de mecanismo são os cientistas.[9]Continuando
+sua análise, Boettke nota que o empreendedorismo pode moldar e criar
+instituições, pois estas são criadas unicamente pela contínua interação dos
+indivíduos. Algumas instituições podem também ser impostas, mas existe um risco
+dessas instituições não vingarem caso as normas conflitem com as das
+instituições já existentes. Nesse caso, pode existir uma oportunidade de lucro
+para os agentes caso mude a estrutura política.Existem
+vários níveis de instituições. As mais
+básicas são os gostos, tradições, normas e religião. Essas requerem mais tempo para serem
+modificadas e determinam a avaliação das outras instituições, fazendo com que
+um novo sistema político seja mal avaliado caso conflite com elas.Ordens
+EspontâneasOrdens
+espontâneas são formas orgânicas de organização emergente das coordenações de
+mercado que se manifestam através de instituições e são originadas sem um
+planejamento central. [10] As teorias de ordens espontâneas podem se
+designar para ordens de mercado ou não, e serem positivas ou normativas.[11]A forma
+mais básica de ordem espontânea é o mercado operando com propriedade, contratos
+e um sistema legal, sendo geralmente estudado através do empreendedorismo, como
+foi visto anteriormente.Um dos
+economistas a tratar das instituições em processo de mercado é Bruce Benson,mostrando a evolução das leis
+comerciais e analisando como as interações de mercado podem determinar leis sem
+nenhum planejamento central, com o auto-interesse dos mercadores levando-os a
+traçar leis de cooperação geral. Esse
+processo é feito através de tentativas e erros, no qual o empreendedorismo dos
+árbitros é necessário.Peter
+Leesonestudaa pirataria do século XVIII para mostrar como um subgrupo da
+sociedade consegue criar regras utilizando o critério de maximização do
+bem-estar da mesma, as quais envolviam tratamento entre os próprios piratas e para
+com as outras pessoas. Desta forma,
+mostra como um subgrupo pode adotar regras que maximizem seu bem-estar, mas não
+o da sociedade em geral.Thomas
+McQuade e William Butos mostram a interação dos indivíduos em um processo sem
+mercado através do exemplo dos cientistas. Conhecimento científico é um produto dos
+próprios cientistas, que querem publicar seus resultados para aumentar suas
+reputações. Os cientistas com esse
+processo filtram as idéias inferiores. O
+produto resultante são os trabalhos mais confiáveis. Para isso, uma série de regras é feita para
+fazer uma filtragem dos textos e o que sai do filtro pode ser coletado, integrado
+com outros conhecimentos e reutilizados por outros cientistas.Pelo
+fato de ainda não ser uma área plenamente desenvolvida, acaba por deixar
+algumas dúvidas não respondidas. Uma delas é: em que condições as ordens
+espontâneas podem surgir e qual seria o papel do mercado nisto (já que essas
+ordens podem surgir tanto com ou sem mercado). Outra questão ainda não respondida é: quando
+essas ordens podem promover um bem-estar social maior e quando elas só aumentam
+o bem-estar de um determinado grupo em detrimento do restante da população.[12]Direito e EconomiaO ramo
+de direito e economia é uma das áreas de pesquisa atuais mais importantes da Escola
+Austríaca. Estuda a conexão entre o
+contexto legal e a economia. Gosta de prestar
+atenção no resultado de intervenções estatais no mercado, na necessidade de uma
+lei estável, nos limites da lei em função do conhecimento descentralizado e na
+privatização de algumas funções básicas do estado.Os
+principais trabalhos iniciais sobre as conseqüências da intervenção estatal na
+atividade econômica foram traçados por Mises, Hayek e Kirzner. Atualmente, é estudado principalmente por
+Sanford Ikeda e pela parceria entre Rizzo e Glenn Withman.Ikedasegue o argumento bastante usado por
+Mises sobre o desvio dos planos estatais em relação a suas reais
+intenções. Esses erros, baseados na
+ignorância dos agentes estatais, distorcem todo o sistema de preços (ou porque
+regulam os preços, ou porque redistribuem a riqueza, retirando assim os incentivos
+em relação à atividade econômica). Esses
+erros econômicos interagem com mudanças nas ideologias e geram mais ação
+estatal.Rizzo e
+Withman focam em argumentos do tipo "ladeira escorregadia"[13] , principalmente sua
+interferência no papel da mudança de idéias e nos argumentos que legitima a
+atividade estatal. Para eles, decisões
+governamentais geram respostas inesperadas e assim os argumentos clamando por
+mais governo acabam por se tornar aceitáveis para corrigir esses supostos
+problemas.Ambas
+as teorias são compatíveis entre si, possuindo apenas abordagens diferentes.
+Ikeda foca no processo das decisões governamentais como um todo, enquanto Rizzo
+e Withman nos impactos que esse processo gera no campo das idéias.Hayek
+inaugurou a pesquisa sobre a estabilidade das leis, notando a importância de um
+sistema legal estável que consiga se adaptar às mudanças externas. Devendo assim, por exemplo, o contrato legal
+permanecer sempre o mesmo, mas os preços se modificando de acordo com os dados
+externos.Prosseguindo
+o estudo, Rizzo e Roy Cordatto criticam a análise de custo-benefícios da lei
+sobre considerações de negligência[14], afirmando que isso pode gerar situações que
+podem não dar direito de negligência a pessoas, uma vez que as situações que
+não podiam ser previstas.Pelas
+considerações de custo-benefício, por exemplo, uma pessoa deve ser considerada
+culpada caso jogue cigarro em um local com gases inflamáveis sem que ela saiba
+e com isso produzir uma explosão, pois evitar jogar o cigarro seria menos
+custoso do que a modificação dos locais onde se encontravam os gases.Peter
+Lewin estende essa visão às questões de externalidade. Falta de predição sobre possíveis danos que
+sua ação causa a terceiros gera, inevitavelmente, conseqüências. O problema em contorná-las por meio de uma
+análise de eficiência é que isso geralmente é feito por um padrão abstrato ao
+invés de por um conjunto de regras específicas.Walter
+Block, economista do Mises Institute, também faz sua contribuição a questões de
+externalidades criticando o argumento de Coase, no qual o mercado sempre
+contornaria os problemas de externalidade não importando quem possua os
+direitos de propriedade em questão. Em
+sua crítica, Block demonstra o fato de este argumento relativizar as noções de
+propriedade em prol da eficiência econômica, algo que pode ser extremamente
+danoso. [15]O campo
+dos limites legais em função do conhecimento estuda se seria possível o governo
+atingir seus objetivos inicialmente previstos.Rizzo
+aborda essa questão em relação ao paternalismo moral.[16] Usando as três
+principais correntes éticas - lei natural, kantianismo e jusnaturalismo - ele
+demonstra que o conhecimento para provar o que é moral não está disponível aos
+governantes.Ao lado
+de Whitman, Rizzo também faz algumas aplicações dessa análise à economia
+comportamental, afirmando que o conhecimento necessário que os governantes
+deveriam ter para conseguir melhorar as decisões dos agentes econômicos não
+estaria disponível para os mesmos.O último
+campo de pesquisa sobre direito e economia tenta investigar se o mercado
+poderia prover as funções básicas do governo. Por ser desenvolvido mais recentemente, é um campo
+que ainda necessita ser melhor investigado.[17]Bryan
+Caplan e Edward Stringham comparam disputas com arbitragens públicas e
+privadas. Após essa análise, argumentam que a arbitragem privada é mais
+eficiente em áreas de disputa comercial ou em áreas onde já existe
+relacionamento entre as partes. Enquanto isso, Ben Powell e Stringham oferecem
+uma vasta literatura de áreas da economia em uma sociedade sem estado usando o
+instrumento da escolha pública (public
+choice).Macroeconomia
+e Teoria Monetária:A área da Macroeconomia Austríaca, talvez seja a que
+teve mais avanços nos últimos anos. Esses avanços ocorreram em novos trabalhos
+na Teoria Austríaca dos Ciclos Econômicos(TACE) e em uma vasta pesquisa sobre
+instituições monetárias alternativas aos bancos centrais.[18]Em seu livro Time and Money: The
+Macroeconomics and Capital Structure, Roger Garrison fez uma
+sistematização geral e um refinamento da TACE. Os últimos trabalhos sobre o tema foram feitos
+por Mises e Hayek e alguns autores fizeram uma leve associação entre a TACE e a
+teoria de Ludwig Lachmann. Garrison uniu
+as três teorias, corrigiu suas deficiências e encontrou problemas até então
+desconhecidos.[19]O título do livro de Garrison demonstra a consideração
+importante de que investimento não é uma decisão homogênea, ideia desenvolvida
+melhor por Peter Lewin em seu livro Capital
+in Disequilibrium: The Role of Capital in a Changing World.Lewin e Garrisson falam em seu trabalho que a TACE está
+centrada na ideia de que taxas de juros artificialmente baixas geram um excesso
+de investimento. Todavia, demonstram que o termo investimento excessivo é por
+si só uma caracterização inapropriada, pois os ciclos não atingem os locais de
+forma homogênea.Com a queda dos juros, a preferência temporal dos
+agentes econômicos é alterada de forma a fazer os indivíduos consumirem mais. Desta forma, cria-se a impressão nos
+investidores de que esse aumento no consumo tem durabilidade, o que faz com que
+eles, os investidores, reajustem seus planos para fazer mais investimentos de
+longo prazo. Devido à expansão ser maior
+nas etapas de produção mais afastadas do consumo, no período de retração do
+ciclo essas são as que acabam sendo afetadas em maior grau.Em trabalhos posteriores, Garrison concentrou-se em
+mostrar a existência de mais distorções espalhadas pelos ciclos econômicos na
+estrutura de produção.Como foi demonstrado anteriormente, de início a
+expansão do crédito gera um consumo excessivo, e faz com que investimentos com
+mais proximidade temporal do consumo sejam incentivados pelo que é chamado de "efeito
+derivado da demanda". Adiciona-se a isso
+a alteração nas preferências temporais, o que aumenta os investimentos mais
+distantes do consumo, o chamado "efeito desconto".Unindo-se esses dois efeitos, os investimentos muito
+próximos e muito distantes acabam sendo incentivados, em detrimento dos
+estágios intermediários. Além disso,
+essa expansão de alguns estágios não consegue ser maior do que a retração de
+outros, fazendo que o nível do capital como um todo diminua.De acordo com a visão austríaca, os períodos de
+expansão artificial da economia são caracterizados pelo mau direcionamento de
+recursos causados pelos investimentos ruins, pelos investimentos excessivos e
+pelo consumo excessivo. Esse
+direcionamento falho deve ser corrigido no momento da recuperação econômica
+(recessão).A teoria austríaca, entretanto, não é uma teoria
+completa dos ciclos econômicos; é uma teoria sobre a crise. Quanto tempo a recessão dura não é explicada pela teoria ou
+pelo grau em que os recursos são mal alocados. A duração da recessão vai depender dos fatores
+que afetam a mobilidade dos recursos. [20]Roger Koppl notou em seus trabalhos que um dos maiores
+obstáculos para se recuperar da recessão pode estar no comportamento dos
+"grandes jogadores". Agentes que,
+guiados pelo mecanismo de lucros e prejuízos, podem afetar diretamente o
+processo econômico e podem aumentar a incerteza dos agentes econômicos que são "jogadores
+pequenos". Alguns exemplos desses
+agentes seriam o banco central, os agentes que fazem a política fiscal e, em
+alguns casos, os monopolistas.Os jogadores pequenos terão que especular o
+comportamento dos jogadores grandes, o que faz com que as variáveis econômicas
+fiquem contaminadas pela atuação destes, tornando-se mais difícil extrair
+conhecimento do sistema de preços e assim dificultando a alocação de recursos
+por parte dos empresários.No livro Risk
+and Business: New and Old Austrian Perspective, Tyler Cowen foca-se na
+união da teoria dos ciclos econômicos com os modernos desenvolvimentos na
+teoria das finanças, uma importante variante da TACE. A principal semelhança entre esta teoria e a TACE é que ambas
+consideram que as mudanças no grau de risco das decisões de investimento estão ligadas ao grau de alocação em investimentos futuros.Um aumento no risco faz as pessoas
+investirem em bens de produção, e uma diminuição do risco faz as pessoas
+investirem em bens de consumo. É uma teoria mais geral e engloba
+outros fatores além dos juros, como mudanças exógenas do risco e reduções na
+incerteza. Qualquer uma dessas mudanças
+causa um aumento no risco, podendo assim gerar um ciclo econômico.[21]Os
+economistas que estudam a teoria monetária mostram que as preocupações da
+teoria dos ciclos econômicos austríacos levam inevitavelmente a uma análise
+institucional. A partir disso,
+perguntam-se que tipo de ambiente é melhor para evitar a distorção a partir da
+inflação e da deflação.Nesse
+ponto, existe até hoje uma vasta discussão entre os defensores do lastro livre
+e os defensores do padrão-ouro.Os
+adeptos do lastro livre, como Steven Horwitz, enfatizam o poder de se ajustar
+as mudanças sobre a alteração da demanda por moeda. Os bancos tendem a expandir ou contrair
+depósitos de acordo com as mudanças na demanda por moeda.Quando
+as reservas expandem, a demanda está aumentando e vice-versa. Não sendo assim necessária uma política para
+controlar a expansão ou a contração de dinheiro, assim como não sendo necessária
+uma política para controlar a expansão ou contração de qualquer recurso.Os defensores
+do lastro em ouro seguem o trabalho de Rothbard. Esses incluem Block, Hoppe, de Sotto e
+Hulsmann. Eles alegam que o regime de
+reservas fracionadas é inerentemente inflacionário, pois qualquer criação de
+meios fiduciários irá inevitavelmente gerar um ciclo econômico.[22]Embora
+esteja levemente inclinada para o padrão fiduciário, a teoria monetária ainda
+não conseguiu resolver esse impasse entre as duas vertentes. Sendo notado assim que esse é mais um campo de
+estudo que merece atenção maior em pesquisas futuras.ConclusãoEvidencia-se
+que a Escola Austríaca de economia produziu recentemente diversos avanços para
+a ciência econômica. Não apenas em áreas mais tradicionais, como a TACE, como
+em áreas que são de desenvolvimento mais recente, como as teorias
+institucionais. Contudo, essas
+contribuições devem continuar por pesquisadores no futuro para aprimorá-las
+ainda mais, não só consertando problemas mostrados neste breve artigo como
+achando problemas ou análises mais complexas que ainda não foram
+descobertos.Caso o pensamento austríaco continue com sua
+excelência acadêmica e com mais trabalhos acadêmicos, como pode ser visto nos
+trabalhos dos economistas citados, não há razão para não crer que ela irá
+conseguir cada vez mais respaldo no debate acadêmico e será um braço cada vez
+mais forte de crítica aos deficitários modelos do mainstream, que não conseguem
+explicar toda a complexidade da economia como faz as refinadas análises dos
+austríacos.______________________________________________________Notas do autor:[1] O mainstream é o nome dado à
+corrente de pensamento mais aceita no meio acadêmico. Na economia esse título é
+dado à Escola Neoclássica, a qual se pauta em desvendar os problemas econômicos
+através de modelos matemáticos e de um forte uso de estatísticas. Tem uma
+influência muito forte tanto Escola de Chicago quanto da Escola Keynesiana. Apesar de ser feita uma vaga crítica, não cabe
+à finalidade desse artigo fazer uma enumeração geral dos defeitos na metodologia
+apresentada por essa escola.[2] Apesar de esta teoria estar
+implícita nos trabalhos de Hayek e Mises, ela foi formalizada oficialmente apenas
+por Kirzner.[3] Para o autor, a teoria
+econômica apenas está interessada em descobrir os efeitos desse alerta, não
+sendo importante saber os fatores que geram esse alerta. A pesquisa desses
+fatores deve ficar a cargo da psicologia.[4] Este tipo de atividade não
+pode ser feita através do planejamento central, mesmo planejadores expostos aos
+mesmos dados que o empresário podem não achar essas oportunidades de lucro.
+Desta forma, a única forma de se gerar esse alerta é através das forças de
+mercado.[5] Esta visão foi trazida
+recentemente para a Escola Austríaca pelo economista Young Back Choi.[6] Em um trabalho similar,
+Harper sugere que uma equipe de indivíduos pode efetuar as descobertas como uma
+"unidade empreendedora".[7] Essa teoria ficou conhecida
+como teoria do processo de mercado genético-causal.[8] Ele prosseguiu com a análise
+traçada por Friedrich Hayek e Ludwig Lachmann sobre este processo.[9] Uma análise mais refinada do
+caso dos cientistas será feita ao tratarmos de ordens espontâneas.[10] Esta definição de ordens
+espontâneas foi traçada pela primeira vez por Hayek, se tornando a definição
+mais utilizada desde então.[11] Nesse
+caso, ela se pauta em analisar as conseqüências de ordens espontâneas para a
+sociedade em geral ou para alguns sub-grupos.[12]
+Essas dúvidas provavelmente serão pautadas como o ponto de partida para um
+estudo austríaco mais refinado da teoria das instituições a ser desenvolvido no
+futuro.[13]
+Ladeira escorregadia é um tipo de argumento que consiste em dizer que uma
+pequena medida pode gerar um efeito maior não esperado.[14]
+Esta vertente afirma que em situações de disputa por acidentes, a punição recai
+para aquele que podia evitá-la mais facilmente. Por exemplo, caso um motorista
+atropele uma pessoa ele deve ser culpado, já que para evitar o acidente deveria
+apenas frear.[16] Vertente do paternalismo
+que indica ser função fundamental do governo implantar os valores corretos na
+população, bastante utilizada pelo movimento dos neoconservadores.[17] Os pesquisadores desse
+campo não pertencem propriamente à Escola Austríaca de economia, sendo autores
+neoclássicos com métodos bastante próximos da atual linha de pesquisa
+austríaca. Entretanto, possuem alguns trabalhos onde não utilizam o
+instrumental neoclássico, que são freqüentemente citados pelos austríacos
+atuais como pertencente à escola.[18] Em grande parte, isso se
+deve ao fato que a teoria macroeconômica sempre foi a área mais pesquisada da
+Escola Austríaca, principalmente devido à preocupação desta escola em entender
+a correlação entre as crises econômicas e as políticas de crédito dos Bancos
+Centrais.[19] Os economistas austríacos
+modernos costumam comparar o trabalho de Garrison para a TACE com os trabalhos
+de John Hicks e Alvin Halsen para a teoria dos ciclos keynesiana.[20] Isso não implica que os
+austríacos não se preocupam com o aumento da demanda por dinheiro (uma baixa
+nas preferências temporais) que acompanham recessões. Entretanto, a crise não é primariamente
+causada por fenômenos deflacionários, mas pela má alocação dos recursos.[21] Essa nova teoria,
+entretanto, não afirma que esse ciclo ocorrerá certamente e pede a avaliação de
+caso por caso para determinar se o ciclo ocorrerá.[22] Fazem também uma acusação
+do regime de padrão fiduciário ser eticamente suspeito, entretanto não será
+considerado esse argumento aqui, a despeito de seus prós ou contras, pelo fato
+de o escopo desse artigo se restringir à economia.0 votosautorGuilherme Inojosaé estudante de Economia do Insper,
+Instituto de Ensino e Pesquisa(antigo Ibmec-SP), secretário geral do partido
+Libertários e co-editor do portal Libertarianismo.comPare de ficar exaltando esse coitadismo tosco. Essa ideia de colocar a culpa de nossas falhas em terceiros, e num passado distante, é coisa de derrotado que não tem coragem de enxergar a realidade. Somos pobres por escolhas nossas, por atitudes nossas, e não por causa de um passado distante.A Austrália "nasceu" como um mero campo de presidiários, onde os britânicos desovavam seus presos (a "escória do Reino Unido"). Olha o que o país virou.Guilherme | Apesar do que dizem os pessimistas, a riqueza nunca foi tão igualitáriaAliás, esse é exatamente o histórico de Hong Kong e Cingapura (que o autor do livro parece ignorar). Ambos os países eram grandes favelas a céu aberto na década de 1970 e hoje têm as maiores rendas per capita do mundo. E jamais aplicaram políticas protecionistas. Ambos são mais ricos que a Coréia do Sul em termos per capita. E olha que ambos são asiáticos -- logo, possuem relativamente a mesma cultura.Outro erro grave do livro é dizer que "o livre comércio funciona bem somente na fantasia do mundo teórico da concorrência perfeita". Ora, quem primeiro fez o argumento em prol do livre comércio foi David Ricardo, ainda no século XIX, e seu argumento jamais se baseou em tal teoria, que nem sequer havia sido inventada à época.Aliás, com dados pra lá dúbios. Por exemplo, Chang se limita a analisar apenas os países que se desenvolveram no século XIX, e afirma que eles se desenvolveram porque adotaram políticas protecionistas em determinados setores; mas ele não analisa todas as políticas adotadas. E em momento algum ele analisa os países que não se desenvolveram, pois isso mostraria que tais países adotaram com ainda mais intensidade exatamente as políticas que ele defende.A teoria indica que tais países protecionistas teriam se desenvolvido ainda mais (com empresas mais competitivas e população mais educada) caso o comércio fosse mais livre. O livro não faz essa contraposição de ideias, pois trabalha exclusivamente com dados empíricos.Mais especificamente sobre a Coréia do Sul, não é verdade dizer que ela "era pobre e aí foram adotadas políticas intervencionistas e aí ela enriqueceu". Mesmo porque isso é econômica e logicamente impossível. O que o general Park fez foi adotar uma política extremamente favorável ao investimento estrangeiro (óbvio, pois a Coréia não tinha capital), principalmente de japoneses (com quem ele reatou relações diplomáticas) e americanos. Não fossem esses investimentos estrangeiros, o país continuaria estagnado.Os japoneses investiram pesadamente em infraestrutura, em indústrias de transformação e em tecnologia, o que fez com que a economia coreana se tornasse uma economia altamente intensiva em capital e voltada para a exportação. Esse fator, aliado à alta educação, disciplina e alta disposição para trabalhar (características inerentemente asiáticas), permitiu a rápida prosperidade da Coréia.Era economicamente impossível a Coréia enriquecer por meio de intervencionismo simplesmente porque não havia capital nenhum no país. Intervencionismo é algo possível apenas em países ricos, que já têm capital acumulado e que, por isso, podem se dar ao luxo de consumi-lo em políticas populistas. Já países pobres não têm essa moleza (por isso o intervencionismo explícito em países como Bolívia e Venezuela apenas pioram as coisas).Vale lembrar que a Coréia do Sul no início da década de 1960 era mais pobre do que a Coréia do Norte. E mesmo assim os japoneses investiram lá. E deu no que deu.Em suma: o livro é apenas propaganda protecionista em prol dos grandes conglomerados coreanos. A teoria de Chang é a de que reserva de mercado e abolição da concorrência são exatamente o que fazem algo prosperar, se modernizar e se tornar pujante. Economia fechada e reserva de mercado são o que cria pujança e prosperidade. Atentado à lógica.Vale lembrar que o Brasil já é assim desde que foi descoberto em 1500. Por favor, cite um único período do país em que tivemos tarifa de importação zero. Aliás, facilito: cite um único período que tivemos baixas tarifas de importação.E aí houve o inevitável: regiões industrializadas sempre viram protecionistas. Em 1860, o Congresso aprovou a Morrill Tariff, que elevou enormemente as tarifas sobre importações para proteger as indústrias do norte bem como seus altos salários, prejudicando severamente os estados do sul, que agora tinham de arcar com os altos custos de importação, mas que não tinham como repassar estes altos custos para seus preços, pois vendiam três quartos da sua produção para o mercado mundial. Vestuário, equipamentos agrícolas, maquinários e vários outros itens ficaram extremamente caros de se obter. O sul queria livre comércio porque também era a única maneira de exportar sua produção.Como consequência dessa imposição tarifária e da destruição do livre comércio, o sul empobreceu (e, até hoje, é mais pobre do que o norte).Tarifas fizeram exatamente o que prometiam: protegeram (de 1865 a 1900) aquelas indústrias do nordeste americano que já estavam estabelecidas, e empobreceram o resto do país. E, de quebra, mataram 600.000 civis em uma guerra.Alguns detalhes:1) Até 1913, a única forma de o governo federal americano se financiar (a única forma que era permitida pela Constituição) era por meio de tarifas de importação. Ou seja,toda a carga tributária federal se resumia a tarifas de importação.2) A Morrill Tariff elevou progressivamente a tarifa de importação de 15% em 1860 para 44% em 1870. Foi uma década perdida para os EUA.A partir de 1870 a tarifa voltou a cair, chegando a 27% em 1880, a 15% em 1910 e a 7,7% em 1917.Historiador Honesto | Apesar do que dizem os pessimistas, a riqueza nunca foi tão igualitáriaEsse texto é uma resposta a altura para os que dizem que a EA está presa no que Mises e Hayek escreveram tempos atrás. Pelo que vi os desenvolvimentos são cada vez maiores e seguem utilizando a praxeologia para a análise."Em que condições as ordens espontâneas podem surgir e qual seria o papel do mercado nisto (já que essas ordens podem surgir tanto com ou sem mercado)?\n\nQuando essas ordens podem promover um bem-estar social maior e quando elas só aumentam o bem-estar de um determinado grupo em detrimento do restante da população?\n\n\nFiquei instigado a responder estas perguntas...Juliano, quem fala esse tipo de coisa não sabe o que está dizendo e a maior prova é tudo isto que foi exposto por aqui.\n\nFilipe, eu particulamente acredito que a pergunta de quando as ordens espontâneas fazem o melhor para o bem-estar geral está interligada com a questão de agressão a outras. A pirataria, por exemplo, era ruim porque era uma ordem espontânea que saqueava não piratas, mas digamos que isso precisa ainda ser formalizado melhor. \n\nEu particularmente acho que nesse ponto alguns estudos históricos possam ser úteis para ajudar melhor a entender esses padrões de como as ordens surgem e quando elas são boas ou não.Sobre a ordem espontânea:\nEstamos diante de uma nova episteme: da indeterminação, da descontinuidade, do deslocamento, do pluralismo (teórico e ético), da proliferação dos projetos e modelos, da ampliação de todas as perspectivas e do tempo da criatividade.JAPIASSÚ, H. :10 \n Onde quer que vejamos vida, de bactérias a ecossistemas de grande escala, observamos redes com componentes que interagem uns com os outros de maneira tal que toda a rede regula e organiza a si mesma. CAPRA, F. 1996: 176\nTodo homem possui sua finalidade particular, de modo que mil direções correm, umas ao lado das outras, em linhas curvas e retas; elas se entrecruzam, se favorecem ou se entravam, avançam ou recuam e assumem desse modo, umas com relação às outras, o caráter do acaso, tornando assim impossível, abstração feita das influências dos fenômenos da natureza, a demonstração de uma finalidade decisiva que abrangeria nos acontecimentos a humanidade inteira. NIETZSCHE, F., Da utilidade e do inconveniente da História para a vida: 74\n Consideremos uma colônia de formigas cujo movimento, aparentemente browniano, vai aparecer agora, após longo tempo, ordenado na construção de um formigueiro. Esse último é uma obra gigante com relação a dimensão dos indivíduos, e uma obra bastante regular com relação a desordem do vaivém deles. (Michel Serres, cit. Descamps, C., p. 101.)\n
