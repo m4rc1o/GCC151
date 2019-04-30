@@ -1,49 +1,96 @@
+# -*- coding: utf-8 -*-
+"""Text an tokens normalization module
+
+This module defines the class Normalizador wich is meant to be used
+for text normalization
+
+"""
 import nltk
 from nltk.tokenize import word_tokenize
 import unidecode
 import string
 
 class Normalizador:
+	"""Defines a set of operations to normalize text
 
+	Attributes:
+		sent_tokenizer: nltk sentence tokenizer
+		word_tokenizer: nltk word tokenizer
+		stemmer: nltk stemmer
+		stopwords: nltk list of Portuguese words "not relevant for meaning"
+	"""
 	def __init__(self):
+
 		self.sent_tokenizer = nltk.data.load('tokenizers/punkt/portuguese.pickle')
 		self.word_tokenizer = word_tokenize
-		self.stemmer = nltk.stem.RSLPStemmer() 
-		self.lemmatizer = "I am a fucking Portuguese Lemmatizer!"
+		self.stemmer = nltk.stem.RSLPStemmer()
+		self.stopwords = nltk.corpus.stopwords.words('portuguese')
 
-	def remove_accents(self, text):
-		return unidecode.unidecode(text)
 
 	def remove_punctuation(self, text):
-	    return text.translate(str.maketrans('', '', string.punctuation))
+		"""Removes punctuation from a string text
+
+		:param text: the text in string format
+		:return: text without punctuation
+		"""
+		return text.translate(str.maketrans('', '', string.punctuation))
+
+
+	def remove_accents(self, text):
+		"""Removes accents from a string text
+
+		:param text: the text in string format
+		:return: text without accents
+		"""
+		return unidecode.unidecode(text)
+
+
+	def to_lowercase(self, text):
+		"""Transforms a string text to lowercase
+
+		:param text: the text in string format
+		:return: the text in lowercase
+		"""
+		return text.lower()
+
 
 	def tokenize_sentences(self, text):
-	    sentences = self.sent_tokenizer.tokenize(text)
-	    return sentences
+		"""Splits a text in list by its sentences
+
+		:param text: the text in string format
+		:return: a list with each sentence from text
+		"""
+		return self.sent_tokenizer.tokenize(text)
+
 
 	def tokenize_words(self, text):
-	    tokens = self.word_tokenizer(text)
-	    return tokens
+		"""Splits a text in list by its words or punctuation characters
 
-	def lemmatize(self, text):
-	    return lemmatizer
+		:param text: the text in string format
+		:return: a list containing each word and punctuation characters from text
+		"""
+		return self.word_tokenizer(text)
+
+
+	def remove_stopwords(self, tokens):
+		"""Removes words with only structural functions in a text
+
+		:param tokens: a list of tokens
+		:return: a list of tokens without stopwords
+		"""
+		return [token for token in tokens if token not in self.stopwords]
+
 
 	def stemmize(self, tokens):
+		"""Reduces words to their stem
+
+		:param tokens: a list of tokens
+		:return: a list of stem of each tokens with stemmized words
+		"""
+
 		stemized_words = []
-		
+
 		for word in tokens:
 			stemized_words.append(self.stemmer.stem(word))
 
 		return stemized_words
-
-	def normalization_pipeline(self, text, remove_accents=False, remove_punctuation=False, 
-		tokenize_sentences=False, tokenize_words=False, lemmatize=False, stemmize=False):
-
-	    text = self.remove_accents(text) if remove_accents else text
-	    text = self.remove_punctuation(text) if remove_punctuation else text
-	    text = self.tokenize_sentences(text) if tokenize_sentences else text
-	    text = self.tokenize_words(text) if tokenize_words else text
-	    text = self.lemmatize(text) if lemmatize else text
-	    text = self.stemmize(text) if stemmize else text
-	    
-	    return text
