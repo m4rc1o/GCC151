@@ -1,3 +1,7 @@
+notebooks/utils/lexical/__pyacache__/
+*.py[cod]
+
 .DS_Store
 .ipynb_checkpoints
 notebooks/.ipynb_checkpoints
+
