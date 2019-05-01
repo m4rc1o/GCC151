@@ -4,4 +4,6 @@ notebooks/utils/lexical/__pyacache__/
 .DS_Store
 .ipynb_checkpoints
 notebooks/.ipynb_checkpoints
+notebooks/Untitled.ipynb
+noteboks/*tests
 
