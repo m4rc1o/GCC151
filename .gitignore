@@ -5,5 +5,5 @@ notebooks/utils/lexical/__pyacache__/
 .ipynb_checkpoints
 notebooks/.ipynb_checkpoints
 notebooks/Untitled.ipynb
-noteboks/*tests
+noteboks/test*
 
